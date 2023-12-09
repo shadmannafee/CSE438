@@ -1,3 +1,6 @@
+Link to unlisted Youtube Video:
+https://youtu.be/d7z5yOS0vQc
+
 Paper Title:
 An Accelerated Method for Protecting Data Privacy in Financial Scenarios Based on Linear Operation
 
