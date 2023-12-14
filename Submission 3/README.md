@@ -1,15 +1,25 @@
-Project Title:
-Toxic Comments Classification using Knowledge Distillation​
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/read/tvnyszcyfcwf#7ec437
 
+Link to unlisted YouTube video:
+https://youtube.com/.....
 
-Presentation Link:
-https://docs.google.com/presentation/d/1bgarWLiVoa31cjMUkFTPLgJlnCQIHmNYf-0HhdTYI74/edit?usp=sharing
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1fkCw017pezT9gxtmwkmocuFojfV5K8E-u5WZEQN7sCA/edit?usp=sharing
 
+Project title:
+Comparative Analysis of Image Classification Algorithms  Based on Traditional Machine  Learning and Deep Learning 
 
 
 Group Number:
-16
+10
 
-Members:
-Shadman Ahmad Nafee 20341033 
-Jannatus Sakira Khondaker
+Group Members:
+20341033 Shadman Ahmad Nafee
+20301468 JANNATUS SAKIRA KHONDAKER
+20101508 Fahim Irfan Ahmed
+
+
+
+
+We also correctly have uploaded slide.PPT here.
